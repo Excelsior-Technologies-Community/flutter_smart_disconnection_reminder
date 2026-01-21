@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_smart_disconnection_reminder/src/inactivity_tracker.dart';
+import 'package:flutter_smart_disconnection_reminder/src/network_monitor.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
